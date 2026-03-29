@@ -1,11 +1,9 @@
-<h1 align="center">Hi, I'm Łukasz Kusy 👋</h1>
-
 <p align="center">
-  <em>Software Engineer &nbsp;·&nbsp; Problem Solver &nbsp;·&nbsp; Lifelong Learner</em>
+  <img src="./assets/header.svg" alt="Łukasz Kusy – GitHub Profile Header" width="900"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/qrsor/" target="_blank">
+  <a href="https://www.linkedin.com/in/lukaszkusy/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
@@ -32,6 +30,7 @@ I'm a passionate software engineer with hands-on experience building backend sys
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
 ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apache-groovy&logoColor=white)
 
 ### Build & Tooling
@@ -65,7 +64,7 @@ I'm a passionate software engineer with hands-on experience building backend sys
 
 ## 📫 Get in Touch
 
-- 💼 &nbsp;**LinkedIn:** [linkedin.com/in/qrsor](https://www.linkedin.com/in/qrsor/)
+- 💼 &nbsp;**LinkedIn:** [linkedin.com/in/lukaszkusy](https://www.linkedin.com/in/lukaszkusy/)
 - 🐙 &nbsp;**GitHub:** [github.com/qrsor](https://github.com/qrsor)
 
 ---
