@@ -55,9 +55,9 @@ I'm a passionate software engineer with hands-on experience building backend sys
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qrsor&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=qrsor&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="160" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qrsor&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=qrsor&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="160" />
 </p>
 
 ---
