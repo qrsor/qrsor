@@ -134,7 +134,6 @@
   <g transform="translate(130, 170)">
     <text font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#8b949e">
       <tspan x="0" dy="0">📦 11 repositories</tspan>
-      <tspan dx="20">⭐ Open Source Contributor</tspan>
       <tspan dx="20">🔗 linkedin.com/in/lukaszkusy</tspan>
     </text>
   </g>
