@@ -44,6 +44,7 @@ I'm a passionate software engineer with hands-on experience building backend sys
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [usdc-tracker](https://github.com/qrsor/usdc-tracker) | Tracks USDC (FiatUSD) transfers on Ethereum | TypeScript (NestJS) |
 | [router-search](https://github.com/qrsor/router-search) | POC price scraper that aggregates data from multiple sources | TypeScript |
 | [advent-of-code-2024](https://github.com/qrsor/advent-of-code-2024) | Solutions for Advent of Code 2024 | Java |
 | [inventory-management-system](https://github.com/qrsor/inventory-management-system) | Inventory management backend | TypeScript |
